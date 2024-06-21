@@ -2,12 +2,15 @@ headerr {
   margin: 15px;
   border-color: #FFFFFF;
   border-width: 3px;
+  align-items: center;
 }
 
 verses {
   direction: row;
+  align-items: center;
+  gap: 7px;
 }
 
 verse {
-  margin: 10px;
+  margin: 20px;
 }
