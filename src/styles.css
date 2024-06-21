@@ -1,0 +1,13 @@
+headerr {
+  margin: 15px;
+  border-color: #FFFFFF;
+  border-width: 3px;
+}
+
+verses {
+  direction: row;
+}
+
+verse {
+  margin: 10px;
+}
